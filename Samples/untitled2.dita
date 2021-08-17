@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ivm_nd2_qqb">
+    <title>How to Add Numbers</title>
+    <shortdesc>The instructions for using the addition feature on the JPS Calculator app. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_lc4_y22_qqb">
+            <p>You must have the app installed and opened to add numbers.</p>
+        </prereq>
+        <steps id="steps_zy1_cp2_qqb">
+            <step>
+                <cmd>Enter the first number. </cmd>
+            </step>
+            <step>
+                <cmd>Press the (+) plus button. </cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number. </cmd>
+            </step>
+            <step>
+                <cmd>Press the (=) equal button. </cmd>
+            </step>
+        </steps>
+        <result id="result_ont_3g2_qqb">
+            <p>The result of the addition equation is displayed. </p>
+        </result>
+        <example id="example_bg1_pg2_qqb">
+            <p>You need to add 2 and 3. The equation is 3+2=1. Press 3. Then select (+). Press 2.
+                Then select (=). </p>
+            <p>The result 5 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task>

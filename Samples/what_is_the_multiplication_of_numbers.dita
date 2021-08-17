@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_multiplication_of_numbers">
+    <title>What is Multiplication?</title>
+    <shortdesc>To explain what it is that you are doing when you use the JPS multiplication feature. </shortdesc>
+    <conbody>
+        <p>To successfully perform the task of multiplying numbers, you should know what
+            multiplication is. "Multiplication" is a mathematical concept as repeated addition in
+            order to find the product, or total, between two numbers. </p>
+        <p>The multiplication of two numbers is equivalent to adding as many copies of one of them
+            as the quantity of the other one. </p>
+        <p>The cross (x) symbol represents multiplcation of numbers. </p>
+        <p>This same symbol is used in the app to represent addition; therefore, it will complete
+            the task of multiplying numbers. </p>
+    </conbody>
+</concept>

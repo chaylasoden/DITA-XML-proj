@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/17144/Desktop/Samples/end_user_guide_for_the_jps_calculator_app.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">End-User Guide for the JPS Calculator App</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">End-User Guide for the JPS Calculator App</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_gtm_xcf_qqb"><resourceid appid="topic_gtm_xcf_qqb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Inside the JPS camera app</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="camera_icon"><resourceid appid="camera_icon" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle "/><?ditaot gentext?></topicmeta></topicref>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Add"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d107e31">Add</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_the_addition_of_numbers"><resourceid appid="what_is_the_addition_of_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">What is Addition?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To explain what it is that you are doing when you use the JPS addition feature. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" navtitle="How to Add Numbers" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_ivm_nd2_qqb"><resourceid appid="task_ivm_nd2_qqb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to Add Numbers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The instructions for using the addition feature on the JPS Calculator app. </shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Subtract"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d107e55">Subtract</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_the_subtraction_of_numbers"><resourceid appid="what_is_the_subtraction_of_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">What is Subtraction?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To explain what it is that you are doing when you use the JPS subtraction feature. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_ivm_nd2_qqb"><resourceid appid="task_ivm_nd2_qqb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">How to Subtract Numbers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The instructions for using the subtraction feature on the JPS Calculator app. </shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Multiply"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d107e80">Multiply</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_the_multiplication_of_numbers"><resourceid appid="what_is_the_multiplication_of_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">What is Multiplication?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To explain what it is that you are doing when you use the JPS multiplication feature. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_multiply_numbers"><resourceid appid="how_to_multiply_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">How to Multiply Numbers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The instructions for using the multiplication feature on the JPS Calculator app. </shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Divide"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d107e104">Divide</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_the_division_of_numbers"><resourceid appid="what_is_the_division_of_numbers" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">What is Division?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">To explain what it is that you are doing when you use the JPS division feature. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_b1g_kp2_qqb"><resourceid appid="task_b1g_kp2_qqb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">How to Divide Numbers</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The instructions for using the division feature on the JPS Calculator app. </shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="topic_gtm_xcf_qqb" oid="topic_gtm_xcf_qqb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Inside the JPS camera app</ph></title>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+        <image class="- topic/image " href="file:/C:/Users/17144/Pictures/Screenshot_20210817-150428_Calculator.jpg" id="unique_1_Connect_42_image_nlf_vdf_qqb" nd:nd-id="image_nlf_vdf_qqb" placement="inline"/>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="camera_icon" oid="camera_icon" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><image class="- topic/image " href="file:/C:/Users/17144/Downloads/Screenshot_20210817-150423_Finder.jpg" id="unique_2_Connect_42_image_mhv_c2f_qqb" nd:nd-id="image_mhv_c2f_qqb" placement="inline"/></ph></title>
+</topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d107e31" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Add</ph></title><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="what_is_the_addition_of_numbers" oid="what_is_the_addition_of_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Addition?</ph></title>
+    <shortdesc class="- topic/shortdesc ">To explain what it is that you are doing when you use the JPS addition feature. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To successfully perform the task of adding numbers, you should know what addition is.
+            "Addition" is a mathematical concept in which you combine two numbers to find the sum,
+            or total, between two numbers. </p>
+        <p class="- topic/p ">So, the purpose of addition is to create a larger number. We take one number and combine
+            it with another.</p>
+        <p class="- topic/p ">The add (+) symbol represents addition of numbers. </p>
+        <p class="- topic/p ">This same symbol is used in the app to represent addition; therefore, it will complete
+            the task of adding numbers. </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="task_ivm_nd2_qqb" oid="task_ivm_nd2_qqb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Add Numbers</ph></title>
+    <shortdesc class="- topic/shortdesc ">The instructions for using the addition feature on the JPS Calculator app. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_4_Connect_42_prereq_lc4_y22_qqb" nd:nd-id="prereq_lc4_y22_qqb">
+            <p class="- topic/p ">You must have the app installed and opened to add numbers.</p>
+        </prereq>
+        <steps class="- topic/ol task/steps " id="unique_4_Connect_42_steps_zy1_cp2_qqb" nd:nd-id="steps_zy1_cp2_qqb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the first number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (+) plus button. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the second number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (=) equal button. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_ont_3g2_qqb" nd:nd-id="result_ont_3g2_qqb">
+            <p class="- topic/p ">The result of the addition equation is displayed. </p>
+        </result>
+        <example class="- topic/example " id="unique_4_Connect_42_example_bg1_pg2_qqb" nd:nd-id="example_bg1_pg2_qqb">
+            <p class="- topic/p ">You need to add 2 and 3. The equation is 3+2=1. Press 3. Then select (+). Press 2.
+                Then select (=). </p>
+            <p class="- topic/p ">The result 5 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d107e55" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Subtract</ph></title><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="what_is_the_subtraction_of_numbers" oid="what_is_the_subtraction_of_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Subtraction?</ph></title>
+    <shortdesc class="- topic/shortdesc ">To explain what it is that you are doing when you use the JPS subtraction feature. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To successfully perform the task of subtracting numbers, you should know what subtraction
+            is. "Subtraction" is a mathematical concept in which you find the difference between two
+            numbers. </p>
+        <p class="- topic/p ">So, the purpose of subtraction is to reduce a number into it's smaller form. We take one
+            number away from the other.</p>
+        <p class="- topic/p ">The minus (-) symbol represents subtraction of numbers. </p>
+        <p class="- topic/p ">This same symbol is used in the app to represent subtraction; therefore, it will complete
+            the task of subtracting numbers. </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="task_ivm_nd2_qqb" oid="task_ivm_nd2_qqb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Subtract Numbers</ph></title>
+    <shortdesc class="- topic/shortdesc ">The instructions for using the subtraction feature on the JPS Calculator app. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_6_Connect_42_prereq_lc4_y22_qqb" nd:nd-id="prereq_lc4_y22_qqb">
+            <p class="- topic/p ">You must have the app installed and opened to subtract numbers.</p>
+        </prereq>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the first number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (-) minus button. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the second number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (=) equal button. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_6_Connect_42_result_ont_3g2_qqb" nd:nd-id="result_ont_3g2_qqb">
+            <p class="- topic/p ">The result of the subtraction equation is displayed. </p>
+        </result>
+        <example class="- topic/example " id="unique_6_Connect_42_example_bg1_pg2_qqb" nd:nd-id="example_bg1_pg2_qqb">
+            <p class="- topic/p ">You need to subtract 2 from 3. The equation is 3-2=1. Press 3. Then select (-). Press
+                2. Then select (=). </p>
+            <p class="- topic/p ">The result 1 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d107e80" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Multiply</ph></title><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="what_is_the_multiplication_of_numbers" oid="what_is_the_multiplication_of_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Multiplication?</ph></title>
+    <shortdesc class="- topic/shortdesc ">To explain what it is that you are doing when you use the JPS multiplication feature. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To successfully perform the task of multiplying numbers, you should know what
+            multiplication is. "Multiplication" is a mathematical concept as repeated addition in
+            order to find the product, or total, between two numbers. </p>
+        <p class="- topic/p ">The multiplication of two numbers is equivalent to adding as many copies of one of them
+            as the quantity of the other one. </p>
+        <p class="- topic/p ">The cross (x) symbol represents multiplcation of numbers. </p>
+        <p class="- topic/p ">This same symbol is used in the app to represent addition; therefore, it will complete
+            the task of multiplying numbers. </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="how_to_multiply_numbers" oid="how_to_multiply_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Multiply Numbers</ph></title>
+    <shortdesc class="- topic/shortdesc ">The instructions for using the multiplication feature on the JPS Calculator app. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_8_Connect_42_prereq_lc4_y22_qqb" nd:nd-id="prereq_lc4_y22_qqb">
+            <p class="- topic/p ">You must have the app installed and opened to multiply numbers.</p>
+        </prereq>
+        <steps class="- topic/ol task/steps " id="unique_8_Connect_42_steps_zy3_2q2_qqb" nd:nd-id="steps_zy3_2q2_qqb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the first number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (x) cross button. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the second number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (=) equal button. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_8_Connect_42_result_ont_3g2_qqb" nd:nd-id="result_ont_3g2_qqb">
+            <p class="- topic/p ">The result of the multiplication equation is displayed. </p>
+        </result>
+        <example class="- topic/example " id="unique_8_Connect_42_example_bg1_pg2_qqb" nd:nd-id="example_bg1_pg2_qqb">
+            <p class="- topic/p ">You need to multiply 2 and 3. The equation is 3x2=6. Press 3. Then select (x). Press
+                2. Then select (=). </p>
+            <p class="- topic/p ">The result 6 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d107e104" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Divide</ph></title><concept class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="what_is_the_division_of_numbers" oid="what_is_the_division_of_numbers" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is Division?</ph></title>
+    <shortdesc class="- topic/shortdesc ">To explain what it is that you are doing when you use the JPS division feature. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">To successfully perform the task of dividing numbers, you should know what division is.
+            "Division" is a mathematical concept in which you calculate the number of times a number
+            is contained in another number.</p>
+        <p class="- topic/p ">So, the purpose of division is to divide a number into another number to find the
+            quotient.</p>
+        <p class="- topic/p ">The obelus (÷) symbol represents division of numbers. </p>
+        <p class="- topic/p ">This same symbol is used in the app to represent division; therefore, it will complete
+            the task of dividing numbers. </p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="task_b1g_kp2_qqb" oid="task_b1g_kp2_qqb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Divide Numbers</ph></title>
+    <shortdesc class="- topic/shortdesc ">The instructions for using the division feature on the JPS Calculator app. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_10_Connect_42_prereq_lc4_y22_qqb" nd:nd-id="prereq_lc4_y22_qqb">
+            <p class="- topic/p ">You must have the app installed and opened to divide numbers.</p>
+        </prereq>
+        <steps class="- topic/ol task/steps " id="unique_10_Connect_42_steps_bnl_kp2_qqb" nd:nd-id="steps_bnl_kp2_qqb">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the first number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (÷) obelus button. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the second number. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Press the (=) equal button. </cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_10_Connect_42_result_ont_3g2_qqb" nd:nd-id="result_ont_3g2_qqb">
+            <p class="- topic/p ">The result of the division equation is displayed. </p>
+        </result>
+        <example class="- topic/example " id="unique_10_Connect_42_example_bg1_pg2_qqb" nd:nd-id="example_bg1_pg2_qqb">
+            <p class="- topic/p ">You need to divide 5 from 10. The equation is 10÷5=2. Press 10. Then select (÷).
+                Press 5. Then select (=). </p>
+            <p class="- topic/p ">The result 2 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task></topic></map>

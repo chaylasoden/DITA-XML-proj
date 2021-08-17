@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_subtraction_of_numbers">
+    <title>What is Subtraction?</title>
+    <shortdesc>To explain what it is that you are doing when you use the JPS subtraction feature. </shortdesc>
+    <conbody>
+        <p>To successfully perform the task of subtracting numbers, you should know what subtraction
+            is. "Subtraction" is a mathematical concept in which you find the difference between two
+            numbers. </p>
+        <p>So, the purpose of subtraction is to reduce a number into it's smaller form. We take one
+            number away from the other.</p>
+        <p>The minus (-) symbol represents subtraction of numbers. </p>
+        <p>This same symbol is used in the app to represent subtraction; therefore, it will complete
+            the task of subtracting numbers. </p>
+    </conbody>
+</concept>

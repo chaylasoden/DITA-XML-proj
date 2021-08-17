@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End-User Guide for the JPS Calculator App</title>
+    <topicref href="camera%20app.dita"/>
+    <topicref href="camera%20icon.dita"/>
+    <topichead navtitle="Add">
+        <topicref href="what_is_the_addition_of_numbers.dita"/>
+        <topicref href="untitled2.dita" navtitle="How to Add Numbers"/>
+    </topichead>
+    <topichead navtitle="Subtract">
+        <topicref href="what_is_the_subtraction_of_numbers.dita"/>
+        <topicref href="How%20to%20Subtract%20Numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Multiply">
+        <topicref href="what_is_the_multiplication_of_numbers.dita"/>
+        <topicref href="how_to_multiply_numbers.dita"/>
+    </topichead>
+    <topichead navtitle="Divide">
+        <topicref href="what_is_the_division_of_numbers.dita"/>
+        <topicref href="How%20to%20Divide%20Numbers.dita"/>
+    </topichead>
+</map>

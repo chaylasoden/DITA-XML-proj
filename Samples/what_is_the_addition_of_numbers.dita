@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_addition_of_numbers">
+    <title>What is Addition?</title>
+    <shortdesc>To explain what it is that you are doing when you use the JPS addition feature. </shortdesc>
+    <conbody>
+        <p>To successfully perform the task of adding numbers, you should know what addition is.
+            "Addition" is a mathematical concept in which you combine two numbers to find the sum,
+            or total, between two numbers. </p>
+        <p>So, the purpose of addition is to create a larger number. We take one number and combine
+            it with another.</p>
+        <p>The add (+) symbol represents addition of numbers. </p>
+        <p>This same symbol is used in the app to represent addition; therefore, it will complete
+            the task of adding numbers. </p>
+    </conbody>
+</concept>

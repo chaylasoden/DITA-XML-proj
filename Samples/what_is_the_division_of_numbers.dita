@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_the_division_of_numbers">
+    <title>What is Division?</title>
+    <shortdesc>To explain what it is that you are doing when you use the JPS division feature. </shortdesc>
+    <conbody>
+        <p>To successfully perform the task of dividing numbers, you should know what division is.
+            "Division" is a mathematical concept in which you calculate the number of times a number
+            is contained in another number.</p>
+        <p>So, the purpose of division is to divide a number into another number to find the
+            quotient.</p>
+        <p>The obelus (÷) symbol represents division of numbers. </p>
+        <p>This same symbol is used in the app to represent division; therefore, it will complete
+            the task of dividing numbers. </p>
+    </conbody>
+</concept>

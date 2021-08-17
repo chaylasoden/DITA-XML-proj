@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_multiply_numbers">
+    <title>How to Multiply Numbers</title>
+    <shortdesc>The instructions for using the multiplication feature on the JPS Calculator app. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_lc4_y22_qqb">
+            <p>You must have the app installed and opened to multiply numbers.</p>
+        </prereq>
+        <steps id="steps_zy3_2q2_qqb">
+            <step>
+                <cmd>Enter the first number. </cmd>
+            </step>
+            <step>
+                <cmd>Press the (x) cross button. </cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number. </cmd>
+            </step>
+            <step>
+                <cmd>Press the (=) equal button. </cmd>
+            </step>
+        </steps>
+        <result id="result_ont_3g2_qqb">
+            <p>The result of the multiplication equation is displayed. </p>
+        </result>
+        <example id="example_bg1_pg2_qqb">
+            <p>You need to multiply 2 and 3. The equation is 3x2=6. Press 3. Then select (x). Press
+                2. Then select (=). </p>
+            <p>The result 6 appears on the screen. </p>
+        </example>
+    </taskbody>
+</task>
